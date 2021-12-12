@@ -1,5 +1,5 @@
 # djangogirls
-django_girls
+django_girlsの公式チュートリアル
 
 maropook.pythonanywhere.com
 
